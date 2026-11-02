@@ -1,0 +1,1 @@
+"""SSP astronomy calculations."""
